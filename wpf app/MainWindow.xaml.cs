@@ -23,6 +23,8 @@ namespace wpf_app
         public MainWindow()
         {
             InitializeComponent();
+
+            int i = 1;
         }
     }
 }
